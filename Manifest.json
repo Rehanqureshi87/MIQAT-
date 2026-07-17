@@ -1,8 +1,0 @@
-{
-  "name": "MIQAT – Prayer Tracker",
-  "short_name": "MIQAT",
-  "start_url": "/MIQAT-/",
-  "display": "standalone",
-  "background_color": "#F5F5F5",
-  "theme_color": "#101010"
-}
