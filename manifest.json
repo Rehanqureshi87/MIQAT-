@@ -2,21 +2,24 @@
   "name": "MIQAT – Prayer Tracker",
   "short_name": "MIQAT",
   "description": "Your prayers. Tracked.",
-  "start_url": "/",
+  "start_url": "/MIQAT-/index.html",
+  "scope": "/MIQAT-/",
   "display": "standalone",
   "background_color": "#F5F5F5",
   "theme_color": "#101010",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icons/icon-192.png",
+      "src": "https://via.placeholder.com/192x192/101010/F25623?text=M",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "https://via.placeholder.com/512x512/101010/F25623?text=M",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
