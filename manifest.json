@@ -1,0 +1,44 @@
+{
+  "name": "MIQAT – Prayer Tracker",
+  "short_name": "MIQAT",
+  "description": "Your prayers. Tracked.",
+  "start_url": "/MIQAT-/",
+  "scope": "/MIQAT-/",
+  "display": "standalone",
+  "background_color": "#101010",
+  "theme_color": "#101010",
+  "orientation": "portrait",
+  "categories": ["lifestyle", "utilities"],
+  "icons": [
+    {
+      "src": "/MIQAT-/icons/icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/MIQAT-/icons/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/MIQAT-/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/MIQAT-/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/MIQAT-/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
